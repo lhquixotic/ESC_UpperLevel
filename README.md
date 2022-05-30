@@ -1,2 +1,2 @@
 # ESC_UpperLevel
-Matlab/Simulink model for Electronic Stability Control。
+Matlab/Simulink model for Electronic Stability Control
